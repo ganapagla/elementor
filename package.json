@@ -13,7 +13,7 @@
         "dev:install": "npm install && composer install"
     },
     "devDependencies": {
-        "@babel/core": "7.0.0",
+        "@babel/core": "7.20.12",
         "@babel/plugin-proposal-class-properties": "^7.2.1",
         "@babel/plugin-proposal-optional-chaining": "^7.9.0",
         "@babel/runtime-corejs2": "^7.0.0",
